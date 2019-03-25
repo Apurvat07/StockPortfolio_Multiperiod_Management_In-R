@@ -1,0 +1,2 @@
+# StockPortfolio_Multiperiod_Management_In-R
+To perform the analysis, we collect stock data of 40 companies from S&amp;P list companies from Yahoo Finance. The data we collected is for 4-year period: 2015 to March, 2019 and then we calculate the return for each stock per year. Apart from stock prices, we also collected data of United States GDP for the same period of time as an input for our model.
